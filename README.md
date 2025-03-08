@@ -1,6 +1,6 @@
 # Live Image Recognition through CoreML and ReactNative
 
-![Alt Text](https://github.com/jigsawxyz/react-native-coreml-image-example/raw/master/images/demo.gif)
+![Alt Text](https://github.com/huzaifa9811/Image-verse/raw/master/images/demo.gif)
 
 This component provides a live camera view that allows you to integrate CoreML's Image Recognition into your apps.
 
@@ -14,7 +14,7 @@ For full details on how to use it, see the documentation below, but essentially 
 Within your react native project, run the following command to install the module:
 
 ```javascript
-npm install react-native-core-ml-image --save
+npm install Image-verse --save
 ```
 
 Once that has completed, run the following command to link it to your project:
@@ -48,7 +48,7 @@ The component uses the camera to identify objects, so you need to add a descript
 Using the component in your app is simple. First import the module:
 
 ```javascript
-import CoreMLImage from "react-native-core-ml-image";
+import CoreMLImage from "Image-verse-image";
 ```
 
 ... then, add the component wherever you want it...
