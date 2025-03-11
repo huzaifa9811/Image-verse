@@ -1,4 +1,4 @@
-/**
+/** 
  * Stub of CoreMLImage for Android.
  *
  * @providesModule CoreMLImage
