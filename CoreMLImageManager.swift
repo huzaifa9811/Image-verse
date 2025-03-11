@@ -1,4 +1,4 @@
-import Foundation
+import Foundation 
 
 @available(iOS 11.0, *)
 @objc(CoreMLImageManager)
