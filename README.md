@@ -1,5 +1,5 @@
 # Live Image Recognition through CoreML and ReactNative
-
+ 
 ![Alt Text](https://github.com/huzaifa9811/Image-verse/raw/master/images/demo.gif)
 
 This component provides a live camera view that allows you to integrate CoreML's Image Recognition into your apps.
